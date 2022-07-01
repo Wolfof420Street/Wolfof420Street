@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-billodida420@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:billodida420@gmail.com)](mailto:billodida420@gmail.com)
 
 
-👋 Hello!I am a Mobile developer trying to change the world one line of code at a time :) Currently working with Crypto and NFTs. Checkout <a href="https://cryptocontrollers.io/" title="Crypto Controllers">Crypto Controllers</a>
+👋 Hello!I am a Mobile developer trying to change the world one line of code at a time :) Currently working with Crypto and NFTs. Checkout <a href="https://cryptocontrollers.io/" title="Crypto Controllers">Crypto Controllers</a> and keep a look out for <a href="https://autaway.com/" title="Not Drop">Not Community</a>
 
 ### 💻 Technologies
 - Kotlin
