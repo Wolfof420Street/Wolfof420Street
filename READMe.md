@@ -2,9 +2,8 @@
 <h3 align="center">A Software developer. <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfof420Street" alt="bill odida" /> </p>
 
-- 🔭 I’m currently working on Mobile Apps using Flutter and Kotlin first / Java Android.
-- 👯 Also working on Web3 . I write Smart Contracts using Solidity and  build out GRAPHQL Backends with Prisma , TypeScript and Nexus for the dApps. 
-- 🌱 I’m always learning and looking forward to any cool Projects to learn. Checkout <a href="https://cryptocontrollers.io/" title="Crypto Controllers">Crypto Controllers</a> and keep a look out for <a href="https://autaway.com/" title="Not Drop">Auta Way</a>.
+- 🔭 I’m a mobile developer Experienced in Android and Flutter. 
+- 👯 Also experienced in Blockchain Development
 
 - 📫 How to reach me: 
 <p align="center"> 
@@ -48,11 +47,4 @@
  </p>
  
  
-### ⚡ Wakatime Statistics
-<p align="center">
-  <img src="https://wakatime.com/share/@32ed360e-1ee0-4ef6-81af-8373d3d55259/b3436bd7-8198-483e-a42e-9b710261a995.svg"
-alt="Languages" width = "420"
-style="float: left; margin-right: 10px;" />
-   <img src="https://wakatime.com/share/@32ed360e-1ee0-4ef6-81af-8373d3d55259/6cd74c87-bc1c-409c-aeec-994d58faad78.svg" alt="Wolfof420Street" width="420" />
-  </p>
 >
