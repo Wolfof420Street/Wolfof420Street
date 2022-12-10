@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bill Odida</h1>
 <h3 align="center">A Software developer. <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfof420Street" alt="bill odida" /> </p>
+[![wakatime](https://wakatime.com/badge/user/32ed360e-1ee0-4ef6-81af-8373d3d55259.svg)](https://wakatime.com/@32ed360e-1ee0-4ef6-81af-8373d3d55259)
+[![twitter](https://img.shields.io/twitter/follow/Fbillionare?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/Fbillionare)
+[![github](https://img.shields.io/github/followers/jaymoh?logo=github&style=plastic)](https://github.com/Wolfof420Street?tab=followers)
+
 
 - 🔭 I’m a mobile developer Experienced in Android and Flutter. 
 - 👯 Also experienced in Blockchain Development
